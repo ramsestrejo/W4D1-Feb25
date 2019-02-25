@@ -42,7 +42,7 @@ When the type of JOIN isn't specified, SQL will assume you're talking about a LE
 
 ### Sample Queries to the Music Database
 
-(https://fzero.github.io/lhl-lectures/assets/musicdb.svg)
+![Music ERD](https://fzero.github.io/lhl-lectures/assets/musicdb.svg)
 
 ```
 -- all tracks, with artist name and album name
